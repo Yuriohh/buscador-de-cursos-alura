@@ -28,5 +28,6 @@
         "post-update-cmd": [
             "@cs"
         ]
-    }
+    },
+    "license": "GPL-3.0"
 }
